@@ -10,6 +10,7 @@
 
 .price-list {
     width: 100%;
+    border-spacing: 0;
     border-collapse: collapse;
 }
 
@@ -28,5 +29,9 @@
 }
 
 .price-list .price-number {
-   text-align: center; 
+    text-align: center;
+}
+
+.price-list .price-name {
+    font-weight: bold;
 }
