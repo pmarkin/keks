@@ -10,7 +10,6 @@
 
 .price-list {
     width: 100%;
-    border-spacing: 0;
     border-collapse: collapse;
 }
 
@@ -34,4 +33,9 @@
 
 .price-list .price-name {
     font-weight: bold;
+}
+
+.feedback-form-group {
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
